@@ -8,10 +8,10 @@
   <a href="https://github.com/Pablolm2008" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:lopezmonzonpablo37@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
-  <a href="TU_LINKEDIN" target="_blank">
+  <a href="TU_LINKEDIN" target="www.linkedin.com/in/pablo-l-242724425">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
