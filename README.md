@@ -196,7 +196,7 @@ Sistema desarrollado para gestionar el control de vehículos y espacios de estac
 </p>
 
 <p>
-<strong>Tecnologías:</strong> Node.js, JavaScript, SQL
+<strong>Tecnologías:</strong> HTML, JavaScript, CSS
 </p>
 
 <a href="https://github.com/Pablolm2008/Campus-Parking---Pablo-Lopez" target="_blank">
@@ -427,7 +427,7 @@ Si quieres conocer más sobre mis proyectos, colaborar o ponerte en contacto con
 
 <br>
 
-*"Construyendo soluciones, aprendiendo constantemente y creciendo como desarrollador."*
+*"SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO"*
 
 </div>
 
@@ -435,6 +435,6 @@ Si quieres conocer más sobre mis proyectos, colaborar o ponerte en contacto con
 
 <div align="center">
 
-⭐ **Si alguno de mis proyectos te resulta interesante, puedes visitar mis repositorios en GitHub.**
+ **Si alguno de mis proyectos te resulta interesante, puedes visitar mis repositorios en GitHub.**
 
 </div>
