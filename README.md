@@ -92,7 +92,6 @@ Me interesa especialmente construir aplicaciones funcionales, organizar correcta
       <a href="https://github.com/Pablolm2008">Ver proyecto</a>
     </td>
 
-```
 <td width="50%">
   <h3> Campus Pizza</h3>
   <p>
@@ -102,7 +101,7 @@ Me interesa especialmente construir aplicaciones funcionales, organizar correcta
   <p><strong>Tecnologías:</strong> MySQL, SQL</p>
   <a href="https://github.com/Pablolm2008">Ver proyecto</a>
 </td>
-```
+
 
   </tr>
 
@@ -117,7 +116,7 @@ Me interesa especialmente construir aplicaciones funcionales, organizar correcta
       <a href="https://github.com/Pablolm2008">Ver proyecto</a>
     </td>
 
-```
+
 <td width="50%">
   <h3> Campuslands MySQL</h3>
   <p>
