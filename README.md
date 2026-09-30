@@ -4,9 +4,9 @@
 
 <br>
 
-# 👋 Hola, soy Pablo López Monzón
+# Hola, soy Pablo López Monzón
 
-### 💻 Desarrollador Full Stack Junior | 🧠 IA & Prompt Engineering | 🗄️ Bases de Datos
+### Desarrollador Full Stack Junior |  IA & Prompts |  Bases de Datos
 
 <p>
   <a href="https://github.com/Pablolm2008" target="_blank">
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy **Pablo López Monzón**, desarrollador **Full Stack Junior en formación**, apasionado por la programación, las bases de datos, la automatización y la creación de soluciones tecnológicas.
 
@@ -39,23 +39,23 @@ Me gusta entender cómo funcionan los sistemas, organizar correctamente la infor
 
 También tengo interés en el uso de **Inteligencia Artificial como herramienta de apoyo para el desarrollo**, especialmente en la creación de prompts estructurados, análisis de problemas, generación de ideas, documentación y optimización de procesos.
 
-### 🎯 Perfil
+### Perfil
 
 |                           |                                                             |
 | ------------------------- | ----------------------------------------------------------- |
-| 👤 **Nombre**             | Pablo López Monzón                                          |
-| 💻 **Perfil**             | Desarrollador Full Stack Junior                             |
-| 🎓 **Formación actual**   | Campuslands                                                 |
-| 🏗️ **Próxima formación** | Ingeniería en Mecatrónica                                   |
-| 🌎 **Ubicación**          | Guatemala 🇬🇹                                              |
-| 📚 **Intereses**          | Desarrollo de software, IA, bases de datos y automatización |
-| 🚀 **Estado**             | En constante aprendizaje                                    |
+| **Nombre**             | Pablo López Monzón                                          |
+| **Perfil**             | Desarrollador Full Stack Junior                             |
+| **Formación actual**   | Campuslands                                                 |
+| **Próxima formación**  | Ingeniería en Mecatrónica                                   |
+| **Ubicación**          | Guatemala 🇬🇹                                                |
+| **Intereses**          | Desarrollo de software, IA, bases de datos y automatización |
+| **Estado**             | En constante aprendizaje                                    |
 
 ---
 
-# 🛠️ Stack Tecnológico
+# Stack Tecnológico
 
-## 🌐 Frontend
+## Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -63,7 +63,7 @@ También tengo interés en el uso de **Inteligencia Artificial como herramienta 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-## ⚙️ Backend & Programación
+## Backend & Programación
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -71,14 +71,14 @@ También tengo interés en el uso de **Inteligencia Artificial como herramienta 
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
-## 🗄️ Bases de Datos
+## Bases de Datos
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-## 🔧 Herramientas
+## Herramientas
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -89,24 +89,24 @@ También tengo interés en el uso de **Inteligencia Artificial como herramienta 
 
 ---
 
-# 🤖 Inteligencia Artificial & Prompt Engineering
+# Inteligencia Artificial 
 
 Uno de mis intereses es aprender a utilizar la **Inteligencia Artificial como herramienta para aumentar la productividad y mejorar procesos de desarrollo**.
 
 Tengo experiencia trabajando con IA para:
 
-* 🧠 Diseñar prompts estructurados y profesionales.
-* ✍️ Crear instrucciones claras para modelos de IA.
-* 🔎 Analizar problemas antes de comenzar un proyecto.
-* 🏗️ Estructurar proyectos de software paso a paso.
-* 💡 Generar y evaluar ideas para soluciones tecnológicas.
-* 📝 Crear documentación técnica.
-* 🐛 Analizar y depurar código.
-* 🗄️ Diseñar estructuras de bases de datos.
-* ⚙️ Automatizar procesos.
-* 📚 Utilizar IA como herramienta de aprendizaje.
+* Diseñar prompts estructurados y profesionales.
+* Crear instrucciones claras para modelos de IA.
+* Analizar problemas antes de comenzar un proyecto.
+* Estructurar proyectos de software paso a paso.
+* Generar y evaluar ideas para soluciones tecnológicas.
+* Crear documentación técnica.
+* Analizar y depurar código.
+* Diseñar estructuras de bases de datos.
+* Automatizar procesos.
+* Utilizar IA como herramienta de aprendizaje.
 
-### 🧩 Estructura que utilizo para crear prompts
+### Estructura que utilizo para crear prompts
 
 ```text
 CONTEXTO
@@ -130,22 +130,21 @@ Mi objetivo es utilizar la IA no solamente para generar contenido, sino como una
 
 ---
 
-# 📚 Actualmente aprendiendo
+# Actualmente aprendiendo
 
 Actualmente estoy fortaleciendo mis conocimientos en:
 
-* 🟨 **JavaScript**
-* 🟢 **Node.js**
-* 🐍 **Python**
-* 🌐 **HTML5 & CSS3**
-* 🗄️ **MySQL & SQL**
-* 🔌 **APIs REST**
-* ⚙️ **Automatización con n8n**
-* 🐳 **Docker**
-* 🔀 **Git & GitHub**
-* 🧠 **Inteligencia Artificial**
-* ✍️ **Prompt Engineering**
-* 🏗️ **Arquitectura y organización de proyectos**
+* **JavaScript**
+* **Node.js**
+* **Python**
+* **HTML5 & CSS3**
+* **MySQL & SQL**
+* **APIs REST**
+* **Automatización con n8n**
+* **Docker**
+* **Git & GitHub**
+* **Inteligencia Artificial**
+* **Arquitectura y organización de proyectos**
 
 ### 🎓 Próximo objetivo académico
 
@@ -172,7 +171,7 @@ Estos son algunos de los proyectos en los que he trabajado y que forman parte de
 
 <td width="50%" valign="top">
 
-<h3>🏋️ GYM-MANAGER</h3>
+<h3>GYM-MANAGER</h3>
 
 <p>
 Sistema de gestión desarrollado para administrar diferentes procesos relacionados con un gimnasio. El proyecto busca organizar la información de usuarios, servicios y operaciones mediante una estructura de software organizada.
@@ -190,7 +189,7 @@ Ver proyecto →
 
 <td width="50%" valign="top">
 
-<h3>🚗 CAMPUS-PARKING</h3>
+<h3>CAMPUS-PARKING</h3>
 
 <p>
 Sistema desarrollado para gestionar el control de vehículos y espacios de estacionamiento dentro de un entorno académico. Permite organizar la información relacionada con el ingreso, registro y control de vehículos.
@@ -212,7 +211,7 @@ Ver proyecto →
 
 <td width="50%" valign="top">
 
-<h3>🥤 DISTRIBUIDORA DE GASEOSAS</h3>
+<h3>DISTRIBUIDORA DE GASEOSAS</h3>
 
 <p>
 Sistema de gestión orientado al control de productos, clientes, ventas e información relacionada con una distribuidora de bebidas. El proyecto aplica conceptos de bases de datos relacionales y organización de información empresarial.
@@ -230,7 +229,7 @@ Ver proyecto →
 
 <td width="50%" valign="top">
 
-<h3>💻 CAMPUSLANDS-CLI-NODE</h3>
+<h3>CAMPUSLANDS-CLI-NODE</h3>
 
 <p>
 Aplicación de línea de comandos desarrollada con Node.js para administrar registros de campers. El proyecto aplica módulos, manejo de archivos JSON, operaciones CRUD, comandos mediante terminal y programación modular.
@@ -252,7 +251,7 @@ Ver proyecto →
 
 <td width="50%" valign="top">
 
-<h3>💻 TECHZONE</h3>
+<h3>TECHZONE</h3>
 
 <p>
 Sistema de gestión de inventario para una tienda de tecnología. Permite administrar categorías, productos, proveedores, clientes, ventas e inventario, aplicando reglas para controlar el stock y organizar la información.
@@ -270,7 +269,7 @@ Ver proyecto →
 
 <td width="50%" valign="top">
 
-<h3>📚 Más proyectos próximamente</h3>
+<h3> Más proyectos próximamente</h3>
 
 <p>
 Continuamente estoy desarrollando nuevos proyectos para fortalecer mis conocimientos y construir un portafolio técnico que represente mi evolución como desarrollador.
@@ -288,9 +287,9 @@ Continuamente estoy desarrollando nuevos proyectos para fortalecer mis conocimie
 
 ---
 
-# 🧠 Habilidades
+# Habilidades
 
-### 💻 Técnicas
+### Técnicas
 
 * Programación
 * Desarrollo de aplicaciones
@@ -306,7 +305,7 @@ Continuamente estoy desarrollando nuevos proyectos para fortalecer mis conocimie
 * Uso de herramientas de Inteligencia Artificial
 * Creación de prompts estructurados
 
-### 🤝 Personales
+### Personales
 
 * Resolución de problemas
 * Pensamiento lógico
@@ -320,37 +319,37 @@ Continuamente estoy desarrollando nuevos proyectos para fortalecer mis conocimie
 
 ---
 
-# 🔄 Mi forma de trabajar
+# Mi forma de trabajar
 
 Me gusta organizar los proyectos antes de comenzar a programar.
 
 ```text
-💡 IDEA / PROBLEMA
+IDEA / PROBLEMA
        ↓
-🔎 ANÁLISIS
+ANÁLISIS
        ↓
-📋 REQUISITOS
+REQUISITOS
        ↓
-📊 DIAGRAMAS Y DISEÑO
+DIAGRAMAS Y DISEÑO
        ↓
-🗂️ ESTRUCTURA DEL PROYECTO
+ESTRUCTURA DEL PROYECTO
        ↓
-💻 DESARROLLO
+DESARROLLO
        ↓
-🧪 PRUEBAS
+PRUEBAS
        ↓
-🐛 DEPURACIÓN
+DEPURACIÓN
        ↓
-📝 DOCUMENTACIÓN
+DOCUMENTACIÓN
        ↓
-🚀 IMPLEMENTACIÓN
+IMPLEMENTACIÓN
        ↓
-🔄 MEJORA CONTINUA
+MEJORA CONTINUA
 ```
 
 ---
 
-# 🎯 Objetivo Profesional
+# Objetivo Profesional
 
 Mi objetivo es crecer profesionalmente como **Desarrollador Full Stack**, fortaleciendo mis conocimientos tanto en desarrollo de software como en tecnologías relacionadas con la automatización y la Inteligencia Artificial.
 
@@ -365,24 +364,6 @@ Busco participar en proyectos donde pueda:
 * Combinar software, automatización e Inteligencia Artificial.
 
 A largo plazo, quiero complementar mi formación en desarrollo de software con **Ingeniería en Mecatrónica**, explorando la integración entre programación, automatización, electrónica, robótica e inteligencia artificial.
-
----
-
-# 🌐 Portafolio Digital
-
-🚧 **Próximamente**
-
-Uno de mis siguientes pasos será desarrollar mi **portafolio digital personal**, donde podré presentar de una manera más completa:
-
-* 👨‍💻 Mi perfil profesional
-* 🚀 Mis proyectos
-* 🛠️ Mis habilidades
-* 📚 Mi formación
-* 🧠 Mis conocimientos en IA
-* 📂 Mis repositorios
-* 📞 Mis medios de contacto
-
-> **Este GitHub es actualmente la base de mi portafolio. El sitio web personal será el siguiente paso.**
 
 ---
 
@@ -408,7 +389,7 @@ Uno de mis siguientes pasos será desarrollar mi **portafolio digital personal**
 
 ---
 
-# 📫 Contacto
+# Contacto
 
 Si quieres conocer más sobre mis proyectos, colaborar o ponerte en contacto conmigo, puedes encontrarme en:
 
@@ -436,7 +417,7 @@ Si quieres conocer más sobre mis proyectos, colaborar o ponerte en contacto con
 
 <div align="center">
 
-## 👋 Gracias por visitar mi perfil
+## Gracias por visitar mi perfil
 
 **Pablo López Monzón**
 
