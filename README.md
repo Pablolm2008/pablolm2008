@@ -26,10 +26,10 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, programaci�
 
 Me interesa especialmente construir aplicaciones funcionales, organizar correctamente la información y desarrollar soluciones que permitan automatizar procesos y resolver problemas reales.
 
-📍 **Ubicación:** Guatemala
-🎓 **Formación:** Campuslands
-💻 **Perfil:** Desarrollador Full Stack Junior
-🚀 **Disponibilidad:** Abierto a nuevas oportunidades y retos profesionales.
+**Ubicación:** Guatemala
+**Formación:** Campuslands
+**Perfil:** Desarrollador Full Stack Junior
+**Disponibilidad:** Abierto a nuevas oportunidades y retos profesionales.
 
 ---
 
@@ -62,7 +62,6 @@ Me interesa especialmente construir aplicaciones funcionales, organizar correcta
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
 ---
@@ -73,9 +72,7 @@ Me interesa especialmente construir aplicaciones funcionales, organizar correcta
 | --------------------------- | -------------------------------------------------------------------- |
 | **Desarrollo Web**       | Creación de interfaces web utilizando HTML, CSS y JavaScript.        |
 | **Backend**              | Desarrollo de lógica y servicios utilizando Node.js y Python.        |
-| **Bases de Datos**      | Diseño, creación y gestión de bases de datos relacionales con MySQL. |
-| **Automatización**       | Diseño de flujos automatizados utilizando n8n.                       |
-| **Contenedores**         | Uso de Docker para configurar y ejecutar aplicaciones y servicios.   |
+| **Bases de Datos**      | Diseño, creación y gestión de bases de datos relacionales con MySQL. |                     |
 | **Control de versiones** | Gestión de proyectos y trabajo colaborativo utilizando Git y GitHub. |
 
 ---
