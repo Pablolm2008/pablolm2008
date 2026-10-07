@@ -148,17 +148,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ### 🎓 Próximo objetivo académico
 
-Uno de mis siguientes objetivos académicos es comenzar mis estudios de **Ingeniería en Mecatrónica**.
-
-Esta formación complementará mi perfil tecnológico y me permitirá explorar áreas relacionadas con:
-
-* Programación
-* Automatización
-* Electrónica
-* Robótica
-* Sistemas de control
-* Inteligencia Artificial
-* Integración entre software y hardware
+Uno de mis siguientes objetivos académicos es comenzar mis estudios de **Ingeniería Electrica**.
 
 ---
 
