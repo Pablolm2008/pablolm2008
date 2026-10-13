@@ -6,7 +6,7 @@
 
 # Hola, soy Pablo López Monzón
 
-### Desarrollador Full Stack Junior |  IA & Prompts |  Bases de Datos
+### Tecnico Desarrollador de Software |  IA & Prompts |  Bases de Datos
 
 <p>
   <a href="https://github.com/Pablolm2008" target="_blank">
@@ -31,7 +31,7 @@
 
 ##  Sobre mí
 
-Soy **Pablo López Monzón**, desarrollador **Full Stack Junior en formación**, apasionado por la programación, las bases de datos, la automatización y la creación de soluciones tecnológicas.
+Soy **Pablo López Monzón**, desarrollador **Tecnico Desarrollador de Software en formación**, apasionado por la programación, las bases de datos, la automatización y la creación de soluciones tecnológicas.
 
 Actualmente estoy fortaleciendo mis conocimientos mediante proyectos prácticos en los que aplico conceptos de **desarrollo web, programación, bases de datos, APIs, automatización y control de versiones**.
 
@@ -44,7 +44,7 @@ También tengo interés en el uso de **Inteligencia Artificial como herramienta 
 |                           |                                                             |
 | ------------------------- | ----------------------------------------------------------- |
 | **Nombre**             | Pablo López Monzón                                          |
-| **Perfil**             | Desarrollador Full Stack Junior                             |
+| **Perfil**             | Tecnico Desarrollador de Software                            |
 | **Formación actual**   | Campuslands                                                 |
 | **Próxima formación**  | Ingeniería en Mecatrónica                                   |
 | **Ubicación**          | Guatemala 🇬🇹                                                |
