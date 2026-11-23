@@ -8,6 +8,9 @@
 
 <br><br>
 
+<a href="https://pablolm2008.github.io/portafolio/">
+<img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://github.com/Pablolm2008">
 <img src="https://img.shields.io/badge/GitHub-Pablolm2008-181717?style=for-the-badge&logo=github" />
 </a>
@@ -33,6 +36,18 @@ Soy **Pablo López Monzón**, Técnico Desarrollador de Software, interesado en 
 Me enfoco en construir soluciones funcionales, escribir código organizado y desarrollar aplicaciones que respondan a necesidades reales.
 
 Actualmente trabajo en proyectos que me permiten fortalecer mis habilidades en desarrollo Full Stack y ampliar mis conocimientos tecnológicos.
+
+---
+
+## Portafolio
+
+Puedes revisar mi portafolio con proyectos, habilidades y más información sobre mi trabajo:
+
+<a href="https://pablolm2008.github.io/portafolio/">
+<img src="https://img.shields.io/badge/Visitar%20mi%20portafolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+🔗 **https://pablolm2008.github.io/portafolio/**
 
 ---
 
@@ -183,6 +198,9 @@ Mi objetivo es continuar creciendo como desarrollador de software, participando 
 
 *Software Developer | Guatemala 🇬🇹*
 
+<a href="https://pablolm2008.github.io/portafolio/">
+<img src="https://img.shields.io/badge/Ver%20mi%20portafolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://github.com/Pablolm2008">
 <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
